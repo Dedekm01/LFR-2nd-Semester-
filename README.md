@@ -1,5 +1,5 @@
 ![](Isometric.png)
-![](Depan.png)
-![](Left_View.png)
-![](Top_View.png)
+![](depan.png)
+![](Left View.png)
+![](Top View.png)
 ![](Schematic.png)
